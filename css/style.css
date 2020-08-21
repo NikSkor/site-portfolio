@@ -156,6 +156,9 @@ body {
     flex-wrap: wrap;
 }
 
+.project-image {
+    max-width: 338px;
+}
 .project-title {
     flex-basis: 100%;
     font-weight: bold;
